@@ -47,7 +47,8 @@ body
 }
 #post
 {
-    background: white;
+    background: black;
+    color: #DDD;
 }
 
 #footer
